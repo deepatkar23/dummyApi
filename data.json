@@ -5,12 +5,5 @@
         "title": "My First Blog 1",
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quis!",
         "dateCreated": "6th May"
-    },
-    {
-        "imageUrl": "https://picsum.photos/seed/picsum/200/300",
-        "imageAlt": "Blog Image",
-        "title": "My Second Blog",
-        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quis!",
-        "dateCreated": "5th May"
     }
 ]
